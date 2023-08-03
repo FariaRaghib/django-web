@@ -1,0 +1,11 @@
+.nav-link{
+color:white !important;
+}
+.nav-link:hover{
+color:Black !important;
+background-color:white;
+border-radius:15px;
+}
+.navbar-brand{
+font-weight : bold ;
+}
