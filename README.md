@@ -21,6 +21,6 @@ Before running the project, ensure you have the following installed:
 
 Python 3.x\
 Django (Version 3.x or higher)\
-SQLite (or your preferred database)\
+SQLite (or your preferred database)
 
 
